@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body{
+    font-family: 'Righteous', cursives;
+    background-color: rgb(165, 233, 233);
+    text-align: center;
+}
+
+h1{
+    border-style: dotted;
+    border-color: whitesmoke;
+    background-color: lightblue;
+    border-left: 20px;
+    border-right: 20px;
+}
+
+p{
+    font-size: 30px;
+}
+
+button{
+    margin-top: 50px;
+    width: 330px;
+    background-color: lightskyblue;
+    height: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: 900;
+    font-family: 'Righteous', cursives ;
+}
+
+ marquee{
+     font-size: larger;
+     color: rgb(110, 110, 194);
+
+ }
+
+ type{
+     position: absolute;
+     top: 500px;
+ }
